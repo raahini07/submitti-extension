@@ -8,7 +8,7 @@ schoolwork deserves celebration :)
 Every time you submit an assignment on Schoology, the extension launches confetti on your screen
 
 ## why I made this
-After spending hours on homework assignments, I wanted a dopamine spike when I'm done.
+After spending hours on homework assignments, I wanted a celebration/dopamine spike when I'm done.
 
 ## features
 
