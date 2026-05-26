@@ -22,7 +22,7 @@ After spending hours on homework assignments, I wanted a celebration/dopamine sp
 1. Download or clone this repository
 
 ```bash
-git clone https://github.com/yourusername/schoology-confetti.git
+git clone https://github.com/raahini07/schoology-confetti.git
 ```
 
 2. Open Chrome and go to
