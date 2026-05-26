@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Schoology Confetti",
+  "version": "1.0",
+  "description": "Celebrates assignment submissions with confetti.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.schoology.com/*"],
+      "js": ["confetti.min.js", "confetti.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
